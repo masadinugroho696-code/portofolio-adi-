@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Adi Nugroho!
+#  Halo, Saya Adi Nugroho!
 
 ### 💻 Pelajar RPL | Calon Programmer
 
@@ -8,7 +8,7 @@ yang tertarik pada perkembangan teknologi dan pemrograman.
 
 ---
 
-## 👨‍💻 Tentang Saya
+## Tentang Saya
 -  Nama: Masadi Nugroho
 -  Tahun lahir : 17-10-2010
 -  Status: Pelajar
